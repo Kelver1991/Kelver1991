@@ -6,7 +6,7 @@
 🎓 Estudante em transição para a área de tecnologia, focado no desenvolvimento de habilidades com **Python**, **Git/GitHub** e **automação de tarefas**.  
 💡 Busco aprender com prática, resolver problemas com lógica e construir um portfólio sólido com projetos reais.
 
----
+--
 
 ### 🚀 Sobre mim
 
