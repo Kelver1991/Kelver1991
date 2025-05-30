@@ -1,3 +1,6 @@
+<img src = "banner.gif" width = "325px"
+
+
 # 👋 Olá! Eu sou o Kelver Mendes
 
 🎓 Estudante em transição para a área de tecnologia, focado no desenvolvimento de habilidades com **Python**, **Git/GitHub** e **automação de tarefas**.  
