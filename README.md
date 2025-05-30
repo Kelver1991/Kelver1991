@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "500px">
+<img src = "giphy.gif" width = "300px">
 
 
 # 👋 Olá! Eu sou o Kelver Mendes
