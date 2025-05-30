@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou o Kelver Mendes
+<img src = "giphy.gif" width = "250px" align = "right">
 
 🎓 Estudante em transição para a área de tecnologia, focado no desenvolvimento de habilidades com **Python**, **Git/GitHub** e **automação de tarefas**.  
 💡 Busco aprender com prática, resolver problemas com lógica e construir um portfólio sólido com projetos reais.
 
 ---
-<img src = "giphy.gif" width = "250px" align = "right">
 
 ### 🚀 Sobre mim
 
