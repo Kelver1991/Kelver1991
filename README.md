@@ -4,7 +4,7 @@
 💡 Busco aprender com prática, resolver problemas com lógica e construir um portfólio sólido com projetos reais.
 
 ---
-<img src = "giphy.gif" width = "200px" align = "right">
+<img src = "giphy.gif" width = "250px" align = "right">
 
 ### 🚀 Sobre mim
 
