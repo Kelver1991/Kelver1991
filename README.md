@@ -47,6 +47,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </div>
+---
+
+### 🐍 Snake Contributions
+
+![snake gif](https://github.com/Kelver1991/Kelver1991/blob/output/github-contribution-grid-snake.svg)
 
 
 
