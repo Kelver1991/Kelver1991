@@ -49,11 +49,8 @@
 </div>
 
 
----
 
-### 🐍 Snake Contributions
 
-![snake gif](https://github.com/Kelver1991/Kelver1991/blob/output/github-contribution-grid-snake.svg)
 
 
 
