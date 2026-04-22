@@ -27,8 +27,8 @@
 ### 📫 Contato
 
 - 📧 Email: kelvermendes1991@gmail.com  
-- 📱 WhatsApp: +55 61 98103-1867  
-*(Pode chamar, mesmo que seja só pra trocar ideia sobre tecnologia!)*
+  
+
 
 ---
 
