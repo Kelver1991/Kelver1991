@@ -13,9 +13,9 @@
 
 ## Sobre mim
 
-Profissional em transição de carreira, com background em operações e TI, hoje focado no desenvolvimento de habilidades em **Python**, **automação de tarefas** e **análise de dados**. Formado em **Análise e Desenvolvimento de Sistemas (ADS)**, construindo um portfólio sólido com projetos práticos.
+Profissional em transição de carreira, com background em operações e TI, hoje focado no desenvolvimento de habilidades em **Python**, **automação de tarefas** e **análise de dados**. Formado em **Análise e Desenvolvimento de Sistemas (ADS)** e com formação em **Engenharia Civil**, construindo um portfólio sólido com projetos práticos.
 
-Acredito que escrever código limpo, resolver problemas reais e evoluir de forma consistente são os pilares de um bom desenvolvedor.
+Acredito que escrever código limpo, resolver problemas reais e evoluir de forma consistente são os pilares de um bom desenvolvedor. Atualmente também desenvolvendo o **inglês técnico** para atuar em projetos e equipes internacionais.
 
 ---
 
@@ -68,9 +68,10 @@ Acredito que escrever código limpo, resolver problemas reais e evoluir de forma
 ## 🎯 Atualmente
 
 - 📚 Estudando **Python** para automação e análise de dados
-- 🎓 Formado em **ADS** — Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em **ADS** e **Engenharia Civil**
 - 🔨 Desenvolvendo projetos práticos para portfólio
 - 📈 Aprendendo **Pandas** e visualização de dados com **Matplotlib**
+- 🌎 Desenvolvendo **inglês técnico**
 
 ---
 
