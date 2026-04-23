@@ -33,6 +33,12 @@ Acredito que escrever código limpo, resolver problemas reais e evoluir de forma
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
+**Frameworks & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -47,9 +53,10 @@ Acredito que escrever código limpo, resolver problemas reais e evoluir de forma
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [tarefas-api](https://github.com/Kelver1991/tarefas-api) | API para gerenciamento de tarefas | Python |
-| [curso-python-1](https://github.com/Kelver1991/curso-python-1) | Exercícios práticos do curso de Python | Python |
-| [trabalho-facul](https://github.com/Kelver1991/trabalho-facul) | Projetos desenvolvidos na faculdade de ADS | HTML |
+| [raízes-do-nordeste](https://github.com/Kelver1991/raízes-do-nordeste) | API REST completa para restaurante com autenticação JWT, controle de acesso e documentação Swagger | Python · FastAPI · MySQL |
+| [task-manager-api](https://github.com/Kelver1991/task-manager-api) | API para gerenciamento de tarefas | Python |
+| [python-fundamentals](https://github.com/Kelver1991/python-fundamentals) | Exercícios práticos e fundamentos de Python | Python |
+| [ads-academic-projects](https://github.com/Kelver1991/ads-academic-projects) | Projetos desenvolvidos na faculdade de ADS | HTML |
 
 ---
 
