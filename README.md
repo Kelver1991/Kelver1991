@@ -53,7 +53,7 @@ Acredito que escrever código limpo, resolver problemas reais e evoluir de forma
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [raízes-do-nordeste](https://github.com/Kelver1991/raízes-do-nordeste) | API REST completa para restaurante com autenticação JWT, controle de acesso e documentação Swagger | Python · FastAPI · MySQL |
+| [raizes-do-nordeste](https://github.com/Kelver1991/raizes-do-nordeste) | API REST completa para restaurante com autenticação JWT, controle de acesso e documentação Swagger | Python · FastAPI · MySQL |
 | [task-manager-api](https://github.com/Kelver1991/task-manager-api) | API para gerenciamento de tarefas | Python |
 | [python-fundamentals](https://github.com/Kelver1991/python-fundamentals) | Exercícios práticos e fundamentos de Python | Python |
 | [ads-academic-projects](https://github.com/Kelver1991/ads-academic-projects) | Projetos desenvolvidos na faculdade de ADS | HTML |
