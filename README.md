@@ -15,7 +15,7 @@
 
 Desenvolvedor Python com experiência em construção de APIs REST, automação de processos e análise de dados. Formado em **Análise e Desenvolvimento de Sistemas (ADS)**, cursando **Engenharia Civil**, com background em operações e TI.
 
-Gosto de resolver problemas reais com código limpo e bem estruturado. Atualmente desenvolvendo o **inglês técnico** para atuar em projetos e equipes internacionais.
+Atuo como **Diretor Comercial na Concept Piscinas & Exteriores**, o que me dá uma visão única de negócio para desenvolver soluções tecnológicas que realmente resolvem problemas reais. Atualmente desenvolvendo o **inglês técnico** para atuar em projetos e equipes internacionais.
 
 ---
 
