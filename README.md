@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Python com experiência em construção de APIs REST, automação de processos e análise de dados. Formado em **Análise e Desenvolvimento de Sistemas (ADS)** e **Engenharia Civil**, com background em operações e TI.
+Desenvolvedor Python com experiência em construção de APIs REST, automação de processos e análise de dados. Formado em **Análise e Desenvolvimento de Sistemas (ADS)**, cursando **Engenharia Civil**, com background em operações e TI.
 
 Gosto de resolver problemas reais com código limpo e bem estruturado. Atualmente desenvolvendo o **inglês técnico** para atuar em projetos e equipes internacionais.
 
@@ -77,7 +77,7 @@ Gosto de resolver problemas reais com código limpo e bem estruturado. Atualment
 ## 🎯 Atualmente
 
 - 🔨 Desenvolvendo APIs REST com **FastAPI** e boas práticas de segurança
-- 🎓 Formado em **ADS** e **Engenharia Civil**
+- 🎓 Formado em **ADS** · Cursando **Engenharia Civil**
 - 📈 Aprofundando conhecimentos em **análise de dados** com Pandas e Matplotlib
 - 🌎 Desenvolvendo **inglês técnico** para projetos internacionais
 
