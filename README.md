@@ -92,4 +92,3 @@ Busco uma oportunidade como **Desenvolvedor Front-end Jr.** ou em áreas relacio
 ⭐ Obrigado por visitar meu perfil!
 ```
 
-Essa versão mantém um visual mais chamativo, com badges coloridos, mas sem perder profissionalismo. Também tira o WhatsApp público, que eu acho melhor para evitar spam.
