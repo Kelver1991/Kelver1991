@@ -1,90 +1,73 @@
-<div align="center">
+# Olá, eu sou Kelver Mendes
 
-# Kelver Mendes
-### Desenvolvedor Python · FastAPI · Automação · Análise de Dados
+Sou graduado em Análise e Desenvolvimento de Sistemas, com experiência profissional em operação e TI, e atualmente estou direcionando minha carreira para desenvolvimento Front-end e automação.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kelver--mendes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelver-mendes-51250930a)
-[![Gmail](https://img.shields.io/badge/Gmail-kelvermendes1991@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kelvermendes1991@gmail.com)
-[![Localização](https://img.shields.io/badge/Brasília-DF-00843D?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Brasilia,DF)
-
-</div>
-
----
+Tenho interesse em criar soluções práticas, interfaces bem organizadas e projetos que resolvam problemas reais. Meu foco atual é evoluir com HTML, CSS, JavaScript, Python, Git/GitHub e boas práticas de desenvolvimento.
 
 ## Sobre mim
 
-Desenvolvedor Python com experiência em construção de APIs REST, automação de processos e análise de dados. Formado em **Análise e Desenvolvimento de Sistemas (ADS)**, cursando **Engenharia Civil**, com background em operações e TI.
+- Graduado em Análise e Desenvolvimento de Sistemas
+- Experiência com rotinas operacionais, tecnologia e melhoria de processos
+- Em evolução como Desenvolvedor Front-end Jr.
+- Interesse em interfaces web, automação, lógica de programação e projetos práticos
+- Buscando oportunidade para atuar na área de tecnologia
 
-Atuo como **Diretor Comercial na Concept Piscinas & Exteriores**, o que me dá uma visão única de negócio para desenvolver soluções tecnológicas que realmente resolvem problemas reais. Atualmente desenvolvendo o **inglês técnico** para atuar em projetos e equipes internacionais.
+## Tecnologias e ferramentas
 
----
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git e GitHub
+- GitHub Pages
+- VS Code
+- Automação de tarefas
+- Lógica de programação
 
-## 🛠️ Tecnologias & Ferramentas
+## Projeto em destaque
 
-**Linguagens**
+### Vitrine Brasília Moda
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Projeto conceitual de uma vitrine moderna para loja de moda premium, desenvolvido com HTML, CSS e JavaScript.
 
-**Dados & Automação**
+O projeto conta com:
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+- Layout responsivo
+- Vitrine de produtos
+- Filtros por categoria
+- Carrinho/lista de interesse
+- Cálculo de total estimado
+- Remoção de itens do carrinho
+- Formulário de atendimento simulado
+- Deploy com GitHub Pages
 
-**Frameworks & APIs**
+Repositório:  
+https://github.com/Kelver1991/vitrine-brasilia-moda
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+Site publicado:  
+https://kelver1991.github.io/vitrine-brasilia-moda/
 
-**Ferramentas**
+## Outros repositórios
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+- `curso-python-1` – Estudos e exercícios práticos com Python
+- `trabalho-facul` – Atividades e projetos desenvolvidos durante a faculdade
+- `Faculdade` – Materiais acadêmicos, exercícios e organização dos estudos
 
----
+## O que estou estudando atualmente
 
-## 📂 Projetos em Destaque
+- JavaScript moderno
+- Manipulação do DOM
+- Responsividade com CSS
+- Git e fluxo de versionamento
+- Python para automação
+- Estruturação de portfólio profissional
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [raizes-do-nordeste](https://github.com/Kelver1991/raizes-do-nordeste) | API REST completa para rede de restaurantes com autenticação JWT, RBAC com 5 perfis, estoque, pedidos multi-canal, pagamentos e programa de fidelidade | Python · FastAPI · MySQL |
-| [task-manager-api](https://github.com/Kelver1991/task-manager-api) | API para gerenciamento de tarefas | Python |
-| [python-fundamentals](https://github.com/Kelver1991/python-fundamentals) | Exercícios práticos e fundamentos de Python | Python |
-| [ads-academic-projects](https://github.com/Kelver1991/ads-academic-projects) | Projetos desenvolvidos na faculdade de ADS | HTML |
+## Objetivo profissional
 
----
+Busco uma oportunidade como Desenvolvedor Front-end Jr. ou em áreas relacionadas à tecnologia, onde eu possa aplicar minha base em ADS, minha experiência com processos e minha vontade de construir soluções úteis e bem organizadas.
 
-## 📊 Estatísticas
+## Contato
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelver1991&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelver1991&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Atualmente
-
-- 🔨 Desenvolvendo APIs REST com **FastAPI** e boas práticas de segurança
-- 🎓 Formado em **ADS** · Cursando **Engenharia Civil**
-- 📈 Aprofundando conhecimentos em **análise de dados** com Pandas e Matplotlib
-- 🌎 Desenvolvendo **inglês técnico** para projetos internacionais
-
----
-
-<div align="center">
-
-*"A melhor forma de aprender é construindo."*
-
-</div>
+- LinkedIn: https://www.linkedin.com/in/kelver-mendes-51250930a
+- GitHub: https://github.com/Kelver1991
+- Email: kelvermendes1991@gmail.com
