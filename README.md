@@ -1,8 +1,4 @@
-Tem sim, e eu até acho melhor. Um README de perfil pode ser profissional sem ficar “frio”. Dá para manter aquele visual com saudação, divisórias, badges/tecnologias e uma pegada mais apresentável.
 
-Use esta versão:
-
-```md
 # Olá! Eu sou o Kelver Mendes
 
 **Desenvolvedor Front-end Jr. | Graduado em ADS | HTML, CSS, JavaScript, Python e Automação**
