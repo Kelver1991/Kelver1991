@@ -1,94 +1,60 @@
+# Kelver Mendes
 
-# Olá! Eu sou o Kelver Mendes
+**Desenvolvedor Python Back-end | FastAPI · MySQL · Automação | +8 anos em gestão operacional e TI**
 
-**Desenvolvedor Front-end Jr. | Graduado em ADS | HTML, CSS, JavaScript, Python e Automação**
+Sou desenvolvedor Python com formação em Análise e Desenvolvimento de Sistemas (UNINTER) 
+e mais de 8 anos de experiência em gestão operacional e TI em ambientes de alto volume.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas, com experiência profissional em operação e TI, e atualmente estou direcionando minha carreira para desenvolvimento Front-end e automação.
-
-Gosto de transformar ideias em projetos práticos, com interfaces organizadas, boa experiência de uso e código em evolução constante.
-
----
-
-## Sobre mim
-
-- Graduado em Análise e Desenvolvimento de Sistemas
-- Experiência com rotinas operacionais, tecnologia e melhoria de processos
-- Em evolução como Desenvolvedor Front-end Jr.
-- Interesse em interfaces web, automação, lógica de programação e projetos práticos
-- Buscando oportunidade para atuar na área de tecnologia
+Tenho uma combinação que poucos desenvolvedores têm: **sei ler um problema de negócio 
+antes de escrever uma linha de código.** Essa visão veio de anos gerenciando operações, 
+equipes e processos — e hoje se traduz em soluções técnicas que resolvem o problema certo.
 
 ---
 
-## Tecnologias e ferramentas
+## Projetos em destaque
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🍽️ Raízes do Nordeste API
+API REST completa para gestão de rede de restaurantes.  
+`Python` `FastAPI` `MySQL` `SQLAlchemy` `JWT` `RBAC` `LGPD` `Swagger`  
+→ [Ver repositório](https://github.com/Kelver1991/raizes-do-nordeste)
 
----
-
-## Projeto em destaque
-
-### Vitrine Brasília Moda
-
-Projeto conceitual de uma vitrine moderna para loja de moda premium, desenvolvido com **HTML, CSS e JavaScript**.
-
-O projeto conta com:
-
-- Layout responsivo
-- Vitrine de produtos
-- Filtros por categoria
-- Carrinho/lista de interesse
-- Cálculo de total estimado
-- Remoção de itens do carrinho
-- Formulário de atendimento simulado
-- Deploy com GitHub Pages
-
-**Repositório:**  
-https://github.com/Kelver1991/vitrine-brasilia-moda
-
-**Site publicado:**  
-https://kelver1991.github.io/vitrine-brasilia-moda/
+### 🛍️ Vitrine Brasília Moda
+Vitrine de moda premium com carrinho, filtros e deploy no GitHub Pages.  
+`HTML` `CSS` `JavaScript`  
+→ [Ver repositório](https://github.com/Kelver1991/vitrine-brasilia-moda) · [Ver site](https://kelver1991.github.io/vitrine-brasilia-moda/)
 
 ---
 
-## Outros repositórios
+## Stack técnica
 
-- [curso-python-1](https://github.com/Kelver1991/curso-python-1) – Estudos e exercícios práticos com Python
-- [trabalho-facul](https://github.com/Kelver1991/trabalho-facul) – Atividades e projetos desenvolvidos durante a faculdade
-- [Faculdade](https://github.com/Kelver1991/Faculdade) – Materiais acadêmicos, exercícios e organização dos estudos
-
----
-
-## Atualmente estudando
-
-- JavaScript moderno
-- Manipulação do DOM
-- Responsividade com CSS
-- Git e fluxo de versionamento
-- Python para automação
-- Estruturação de portfólio profissional
+```python
+stack = {
+    "linguagens":   ["Python", "JavaScript", "HTML", "CSS"],
+    "frameworks":   ["FastAPI", "SQLAlchemy", "Pydantic"],
+    "banco_dados":  ["MySQL"],
+    "segurança":    ["JWT", "RBAC", "bcrypt"],
+    "ferramentas":  ["Git", "GitHub", "VS Code", "Postman", "Uvicorn"],
+    "outros":       ["Automação de processos", "Dashboards analíticos",
+                     "Geração de PDF/PPT com Python"]
+}
+```
 
 ---
 
-## Objetivo profissional
+## O que já entreguei (além do GitHub)
 
-Busco uma oportunidade como **Desenvolvedor Front-end Jr.** ou em áreas relacionadas à tecnologia, onde eu possa aplicar minha base em ADS, minha experiência com processos e minha vontade de construir soluções úteis e bem organizadas.
+- ✅ Dashboard de performance comercial em uso na empresa atual
+- ✅ Gerador de PDF e apresentações PPT automatizados em Python
+- ✅ Automações que eliminaram tarefas manuais repetitivas em ambiente corporativo
+- ✅ API REST com autenticação, controle de acesso por perfil e conformidade LGPD
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelver%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelver-mendes-51250930a)
-[![GitHub](https://img.shields.io/badge/GitHub-Kelver1991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kelver1991)
-[![Email](https://img.shields.io/badge/Email-kelvermendes1991%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvermendes1991@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelver%20Mendes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvermendes)
+[![Gmail](https://img.shields.io/badge/Gmail-kelvermendes1991@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kelvermendes1991@gmail.com)
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
-```
-
+*Aberto a oportunidades em back-end Python, automação de processos e perfis híbridos técnico-comerciais.*
