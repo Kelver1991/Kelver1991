@@ -62,7 +62,7 @@ stack = {
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelver%20Mendes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvermendes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelver%20Mendes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelver-mendes-51250930a)
 [![Gmail](https://img.shields.io/badge/Gmail-kelvermendes1991@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kelvermendes1991@gmail.com)
 
 Aberto a oportunidades em back-end, automacao de processos, sistemas internos e posicoes hibridas entre tecnologia e negocio.
